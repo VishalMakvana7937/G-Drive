@@ -1,0 +1,42 @@
+ https://themes.themegoods.com/grandrestaurantv6/demo8/
+
+
+
+
+
+
+<section class="py-120">
+			<div class="container">
+				<div class="text-white text-center pb-5">
+					<h5>FOLLOW ALONG</h5>
+					<h2 class="fw-bold fs-65"><img src="images/g1.png" /> @Wilma <img src="images/g1.png" /></h2>
+				</div>
+				<div class="row d-flex justify-content-center align-items-center col-12">
+					<div class="col-4 image p-0">
+						<img src="images/j1.jpg" alt="j1" class="img-fluid">
+					</div>
+					<div class="col-5 image p-0">
+						<img src="images/j2.jpg" alt="j1" class="img-fluid">
+					</div>
+					<div class="col-3 image p-0">
+						<img src="images/j3.jpg" alt="j1" class="img-fluid">
+					</div>
+				</div>
+				<div class="row d-flex justify-content-center align-items-center col-12 pt-4">
+					<div class="col-5 image p-0">
+						<img src="images/j4.jpg" alt="j1" class="img-fluid">
+					</div>
+					<div class="col-3 image p-0">
+						<img src="images/j5.jpg" alt="j1" class="img-fluid">
+					</div>
+					<div class="col-4 image p-0">
+						<img src="images/j6.jpg" alt="j1" class="img-fluid">
+					</div>
+				</div>
+			</div>	
+		</section>
+
+
+
+
+								

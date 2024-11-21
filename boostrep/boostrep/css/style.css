@@ -1,0 +1,111 @@
+:root{
+    --dancing-script : 'Dancing Script';
+    --open-sans : 'Open Sans';
+}
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #ffffff;
+    background-color: black;
+    overflow-x: hidden;
+}
+/*-------------------------------------------------- 
+    heder 
+----------------------------------------------------*/
+.bg-box img{
+    /* position: absolute; */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.hero_area{
+    position: relative;
+    min-height: 100vh;
+    /* display: -webkit-box;
+    display: -ms-flexbox; */
+    display: flex;
+    /* -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column; */
+}
+.heder-logo span{
+    font-weight: bold;
+    font-size: 32px;
+    color: #FFFFFF;
+    font-family: var(--dancing-script);
+}
+nav ul li .home-c{
+    color: #ffbe33;
+}
+nav ul li a{
+    transition: all 0.3s;
+    font-family: var(--open-sans);
+    color: #FFFFFF;
+}
+nav ul li:hover a{
+    color: #ffbe33;
+}
+.heder-icon a i{
+    color: #FFFFFF;
+    transition: all 0.3s;
+}
+.heder-icon a:hover i{
+    color: #ffbe33;
+}
+.heder-order{
+    display: inline-block;
+    padding: 8px 30px;
+    background-color: #ffbe33;
+    color: #ffffff;
+    border-radius: 45px 200px ;
+    transition: all 0.3s;
+    border: none;
+}
+.heder-order:hover{
+    background-color: #ffbe33;
+}
+/*-------------------------------------------------- 
+    offer section
+----------------------------------------------------*/
+.box{
+    display: flex;
+    margin: 45px 0px 90px;
+    border-radius: 5px;
+    padding: 20px 15px;
+    background-color: #222831;
+    color: #ffffff;
+}
+.detail-box h5 {
+    font-family: var(--open-sans);
+    font-size: 24px;
+    margin: 0;
+}
+.detail-box h6{
+    font-family: var(--dancing-script);
+    font-size: 24px;
+    margin: 0;
+}
+.detail-box h6 span {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.img-box{
+    position: relative;
+    border-radius: 100%;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+.img-box img{
+    width: 175px;
+    min-width: 175px;
+    height: 175px;
+    margin-right: 15px;
+    border-radius: 100%;
+    border: 5px solid #ffbe33;
+    transition: all 0.5s;
+}
+.box:hover .img-box img{
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
+  }

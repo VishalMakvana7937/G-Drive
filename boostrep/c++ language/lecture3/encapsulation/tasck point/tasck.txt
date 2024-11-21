@@ -1,0 +1,7 @@
+1. WAP to create a class Employee with setter and getter. Which have fields like id, name, role, salary, experience, address, email and contact. Get 5 records.
+
+
+2. WAP to find leap years from 2000 to 3000.
+
+
+3. Convert Minutes into Seconds.

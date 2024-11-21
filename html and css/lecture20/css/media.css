@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.inspect{
+    width: 1000px;
+    height: 600px;
+    background-color: black;
+    margin: 0 auto;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 0 auto;
+}
+@media (max-width: 575px){
+    .inspect{
+        width: 100%;
+        height: 300px;
+        background-color: blue;
+    }
+    .box{
+        width: 50px;
+        height: 50px;
+        background-color: brown;
+    }
+}
+@media (min-width: 576px){
+    .inspect{
+        width: 540px;
+        height: 300px;
+        margin: 0 auto;
+        background-color: rgb(255, 55, 0);
+    }
+    .box{
+        width: 100px;
+        height: 100px;
+        background-color: blueviolet;
+    }
+}
+@media (min-width: 768px){
+    .inspect{
+        width: 720;
+        height: 300px;
+        margin: 0 auto;
+        background-color: rgb(197, 252, 15);
+    }
+    .box{
+        width: 150px;
+        height: 150px;
+        background-color: black;
+    }
+}
+@media (min-width: 992px){
+    .inspect{
+        width: 960px;
+        height: 300px;
+        margin: 0 auto;
+        background-color: rgb(0, 15, 227);
+    }
+    .box{
+        width: 200px;
+        height: 200px;
+        background-color: darkturquoise;
+    }
+}
+@media (min-width: 1200px){
+    .inspect{
+        width: 1140px;
+        height: 300px;
+        margin: 0 auto;
+        background-color: rgb(123, 255, 0);
+    }
+    .box{
+        width: 250px;
+        height: 250px;
+        background-color: firebrick;
+    }
+}
+@media (min-width: 1400px){
+    .inspect{
+        width: 1320px;
+        height: 300px;
+        margin: 0 auto;
+        background-color: rgb(215, 0, 111);
+    }
+    .box{
+        width: 300px;
+        height: 300px;
+        background-color: saddlebrown;
+    }
+}

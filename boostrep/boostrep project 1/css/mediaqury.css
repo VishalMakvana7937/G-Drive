@@ -1,0 +1,456 @@
+
+
+@media (max-width: 575px){
+    .banner-content h2{
+		font-size: 45px;
+	}
+	.banner-content p{
+		font-size: 16px;
+	}
+	.varbav{
+		width: 429px;
+		height: 647.92;
+	}
+	.contents h6{
+		font-size: 16px;
+	}
+	.contents h2{
+		font-size: 36px;
+	}
+	.divider{
+		width: 270px;
+	}
+	.foo-con{
+		border-right: none !important;
+	}
+	.bite{
+		position: absolute;
+		z-index: 1;
+		padding-top: 70%;
+		padding-right: 13%;
+	}
+	.t-l-1{
+		width: 300px !important;
+		padding-top: 20%;
+	}
+	.t-r-1{
+		width: 300px;	
+		padding-top: 16%;
+	}
+	.let{
+		width: 250px !important;
+		/* margin-top: -100px; */
+	}
+	.go{
+		width: 200px !important;
+		/* margin-top: -100px; */
+	}
+	.teech{
+		width: 250px;
+		z-index: 1;
+		padding-top: 70px;
+	}
+	.beef{
+		right: -25%;
+		width: 300px;
+		z-index: 1;
+	}
+	.taste{
+		font-size: 20px !important;
+	}
+	.tank{
+		font-size: 45px !important;
+	}
+	.left-left{
+		width: 200px !important;
+		top: 28%;
+	}
+	.less h2{
+		font-size: 65px;
+	}
+}
+
+@media (min-width: 576px){
+	.banner-content h2{
+		font-size: 45px;
+	}
+	.banner-content p{
+		font-size: 16px;
+	}
+	.contents h2{
+		font-size: 36px;
+	}
+	.contents{
+		padding: 0px;
+	}
+	.divider{
+		width: 270px;
+	}
+	.bite{
+		position: absolute;
+		z-index: 1;
+		padding-top: 70%;
+		padding-right: 13%;
+	}
+	.bite h2{
+		font-size: 60px;
+	}
+	.foo-con{
+		border-right: none !important;
+	}
+	.chef-our h2{
+		font-size: 45px;
+	}
+	.less h2{
+		font-size: 65px;
+	}
+	.fs-spacing{
+		font-size: 45px;
+	}
+	.t-ce{
+		display: flex;
+		justify-content: center !important;
+	}
+	.z1{
+		padding-top: 280px;
+		width: 300px !important;
+		left: -30%;
+	}
+	.t-l-1{
+		width: 305px;
+		padding-top: 20px;
+	}
+	.t-r-1{
+		width: 280px;
+		padding-top: 20px;
+	}
+	.let{
+		width: 250px !important;
+		/* margin-top: -100px; */
+	}
+	.go{
+		width: 200px !important;
+		/* margin-top: -100px; */
+	}
+	.teech{
+		width: 250px;
+		z-index: 1;
+		padding-top: 50px;
+	}
+	.beef{
+		width: 400px;
+		z-index: 1;
+		padding-top: 100px;
+	}
+	.taste{
+		font-size: 40px;
+	}
+	.left-left{
+		top: 20%;
+	}
+	.tank{
+		font-size: 45px !important;
+	}
+	.alog{
+		font-size: 45px;
+	}
+}
+
+@media (min-width: 768px){
+    .banner-content h2{
+		font-size: 45px;
+	}
+	.banner-content p{
+		font-size: 16px;
+	}
+	.bite{
+		position: relative;
+		/* padding-top: 70%; */
+	}
+	.bite h2{
+		font-size: 45px;
+	}
+	.feedback{
+		align-content: start;
+	}
+	.footer-contant{
+		border-bottom: none !important;
+		border-right: 3px solid #ca9c5e !important;
+	}
+	.t-ce{
+		justify-content: center !important;
+		display: flex;
+	}
+	.fs-spacing{
+		font-size: 45px;
+	}
+	.f1{
+		width: 280px !important;
+		padding-top: 60px;
+	}
+	.z1{
+		width: 400px !important;
+		left: -5%;
+		margin-top: -40px;
+	}
+	.let{
+		width: 300px !important;
+		/* margin-top: -100px; */
+	}
+	.go{
+		width: 250px !important;
+		/* margin-top: -100px; */
+	}
+	.teech{
+		width: 300px;
+		z-index: 1;
+	}
+	.beef{
+		right: -30%;
+		width: 450px;
+		z-index: 1;
+	}
+	.taste{
+		font-size: 40px;
+	}
+	.right-right{
+		width: 350px;
+		right: -10%;
+		top: 20%;
+	}
+	.b1 img{
+		width: 223px !important;
+		height: 210px !important;
+		right: -10%;
+	}
+	.a1 img{
+		width: 220px;
+		height: 220px;
+	}
+	.a1{
+		top: 100%;
+	}
+	.divi img{
+		width: 232px;
+		height: 38px;
+	}
+	.divi{
+		right: -35%;
+	}
+	.l1 img{
+		width: 242px;
+		height: 292px;
+	}
+	.tank{
+		font-size: 65px !important;
+	}
+	.alog{
+		font-size: 45px;
+	}
+}	
+
+@media (min-width: 992px){
+    .banner-content h2{
+		font-size: 65px;
+	}
+	.banner-content p{
+		font-size: 16px;
+	}
+	.bite h2{
+		font-size: 55px;
+	}
+	.chef-our h2{
+		font-size: 65px;
+	}
+	.less h2{
+		font-size: 95px;
+	}
+	.fs-spacing{
+		font-size: 65px;
+	}
+	.t-l-1{
+		width: 430px;
+		padding-top: 20px;
+	}
+	.t-r-1{
+		width: 350px;
+		padding-top: 20px;
+		right: -10%;
+	}
+	.let{
+		width: 330px !important;
+		/* margin-top: -100px; */
+	}
+	.go{
+		width: 300px !important;
+		/* margin-top: -100px; */
+	}
+	.teech{
+		width: 330px;
+		z-index: 1;
+	}
+	.beef{
+		right: -25%;
+		width: 500px;
+		z-index: 1;
+	}
+	.taste{
+		font-size: 40px;
+	}
+	.divi{
+		right: -24%;
+	}
+	.right-right{
+		width: 500px;
+		top: 30%;
+		right: -20%;
+	}
+	.alog{
+		font-size: 65px;
+	}
+}	
+@media (min-width: 1200px){
+    .banner-content h2{
+		font-size: 90px;
+	}
+	.banner-content p{
+		font-size: 16px;
+	}
+	.contents h2{
+		font-size: 45px;
+	}
+	.divider{
+		width: 470px;
+	}
+	.bite h2{
+		font-size: 65px;
+	}
+	.t-ce{
+		justify-content: end !important;
+		display: flex;
+	}
+	.f1{
+		width: 350px !important;
+	}
+	.let{
+		width: 360px !important;
+		/* margin-top: -100px; */
+	}
+	.go{
+		width: 350px !important;
+		/* margin-top: -100px; */
+	}
+	.teech{
+		width: 380px;
+		z-index: 1;
+	}
+	.beef{
+		right: -25%;
+		width: 600px;
+		z-index: 1;
+	}
+	.left-left{
+		width: 300px !important;
+		top: 33%;
+	}
+	.right-right{
+		width: 850px;
+		top: 52%;
+		left: 65%;
+	}
+	.b1 img{
+		width: 280px !important;
+		height: 296px !important;
+	}
+	.b1{
+		top: 34%;
+	}
+	.a1 img{
+		width: 290px;
+		height: 290px;
+	}
+	.divi img{
+		width: 500px !important;
+	}
+	.divi{
+		right: -12%;
+		top: 90%;
+	}
+	.l1 img{
+		width: 300px;
+	}
+	.l1{
+		top: 100%;
+	} 
+}
+
+@media (min-width: 1400px){
+    .banner-content h2{
+		font-size: 90px;
+	}
+	.banner-content p{
+		font-size: 16px;
+	}
+	.bite h2{
+		font-size: 65px;
+	}
+	.t-l-1{
+		width: 600px !important;
+		padding-top: 20%;
+	}
+	.t-r-1{
+		width: 500px;	
+		padding-top: 16%;
+	}
+	.let{
+		width: 400px !important;
+		/* margin-top: -100px; */
+	}
+	.go{
+		width: 400px !important;
+		/* margin-top: -100px; */
+	}
+	.teech{
+		width: 400px;
+		z-index: 1;
+	}
+	.beef{
+		right: -30%;
+		width: 900px;
+		z-index: 1;
+	}
+	.left-left{
+		width: 350px !important;
+		top: 30%;
+	}
+	.right-right{
+		width: 1000px !important;
+		top: 45%;
+	}
+	.b1 img{
+		width: 300px !important;
+		height: 307px !important;
+	}
+	.b1{
+		top: 30%;
+	}
+	.tank{
+		font-size: 95px !important;
+	}
+	.a1 img{
+		width: 330px !important;
+		height: 330px !important;
+	}
+	.divi img{
+		width: 470px;
+		height: 55px;
+	}
+
+	.divi{
+		right: -5%;
+	}
+	.l1 img{
+		width: 310px;
+		height: 307px;
+	}
+}

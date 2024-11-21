@@ -1,0 +1,354 @@
+:root{
+    --bs-primary:#ca9c5e;
+    --bs-primary-rgb:202, 156, 94;
+    --bs-secondary:#ffffff;
+    --bs-secondary-rgb:255, 255, 255;
+    --bs-dark:rgb(11, 21, 23);
+    --bs-dark-rgb:11, 21, 23;
+    --bs-body-font-family: 'Reforma 2018 Blanca';
+	--bs-border-width:3px;
+	--bs-border-color: #ca9c5e;
+}
+body{
+	overflow-x:hidden;
+	/* margin: 0 auto; */
+}
+.pt-450{
+    padding-top: 450px;
+}
+.py-120{
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.mt-30{
+    margin-top: 30%;
+}
+.py-20{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.py-10{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.py-60{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.fs-65{
+    font-size: 65px;
+}
+.mt-240{
+    margin-top: 240px;
+}
+/* heder */
+header .logo img{
+    width: 80%;
+}
+nav ul li a{
+    font-size: 18px;
+}
+.icons li a i{
+    font-size: 18px;
+} 
+/* banner */
+.banner{
+	background-image: url(../images/eric-mcnew-WWtubRjKXK8-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 8px solid var(--bs-primary);
+	height : 100vh;
+}
+.left-leaf{
+    left: -6%;
+}
+.right-pan{
+    right: -3%;
+}
+.t-l-1{
+    left: -10%;
+}
+.t-r-1{
+    right: -14%;
+}
+/*  */
+.t-image{
+    background-image: url(../images/t-1.jpg);
+    background-repeat: no-repeat;
+	background-size: cover;
+    width: 100%;
+	height : 60vh;
+}
+.p-l-1{
+    left: -10%;
+}
+.p-r-1{
+    right: -4%;
+}
+/* footer */
+.gold-logo img{
+    width: 230px;
+    height: 131px;
+}
+.logo-icons li a i{
+    font-size: 28px;
+}
+.logo-menu li a{
+    transition: all 0.5s;
+}
+.logo-menu li a:hover{
+    color: var(--bs-primary) !important;
+}
+.feedback-1 p a{
+    transition: all 0.5s;
+}
+.feedback-1 p a:hover{
+    color: var(--bs-primary) !important;
+}
+/* HOVER SECTION */
+/* .image{
+    display: inline-block;
+}
+figure{
+    overflow: hidden;
+    margin: 0 10px;
+}
+.image img{
+    display: block;
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+}
+.image #zoom-in img {
+    transform: scale(1);
+    transition: 0.5 ease-in-out;
+}
+.image #zoom-in:hover img{
+    transform: scale(1.1);
+} */
+.image{
+    overflow: hidden;
+    /* margin: 0 10px; */
+}
+.image{
+    height: 350px;
+    /* width: auto; */
+}
+.f1{
+    left: -14%;
+    top: 50px;
+    position: fixed;
+}
+.z1{
+    left: -1%;
+    position: fixed;
+}
+.fs-spacing{
+    font-size: 45px;
+} 
+/* about */
+.left-left{
+    left: -5%;
+    top: 35%;
+    z-index: -1;
+}
+.right-right{
+    right: -40%;
+    top: 46%;
+    z-index: -1;
+}
+.less h2{
+    font-size: 95px;
+}
+.b1{
+    right: -32%;
+    top: 30%;
+}
+.b1 img,.a1 img{
+    width: 330px;
+    height: 307px;
+}
+.a1{
+    left: -3%;
+    top: 88%;
+}
+.divi{
+    right: -6%;
+    top: 90%;
+}
+.divi{
+    width: 470px;
+    height: 55px;
+}
+.l1{
+    right: -35%;
+    top: 100%;
+}
+.l1 img{
+    width: 310px;
+    height: 374px;
+}
+.let{
+    left: -0%;
+    top: 230px;
+}
+.go{
+    right: -1%;
+    top: 230px;
+}
+.taste{
+    font-size: 45px;
+}
+.teech{
+    width: 400px;
+    z-index: 1;
+}
+.beef{
+    right: -36%;
+    z-index: 1;
+    width: 1000px;
+    padding-top: 10%;
+}
+/* reservation */
+.reservation-bener{
+    background-image: url(../images/c1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 8px solid var(--bs-primary);
+	height : 100vh;
+}
+.rese-a1{
+    left: -8%;
+    width: 400px !important;
+}
+.rese-a1 img,.rese-p-r-1 img{
+    width: 300px;
+    height: 300px;
+}
+.rese-p-r-1{
+    right: -8%;
+}
+.u-number{
+    transition: all 0.5s;
+}
+.u-number:hover{
+    color: var(--bs-secondary) !important;
+}
+.m1 img{
+	background-repeat: no-repeat;
+	background-size: cover;
+    width: 100%;
+	height : 50vh;
+}
+.f-image{
+    background-image: url(../images/t1.jpg);
+    background-repeat: no-repeat;
+	background-size: cover;
+    width: 100%;
+	height : 60vh;
+}
+/* contact */
+.contact-bener{
+    background-image: url(../images/co.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: 8px solid var(--bs-primary);
+	height : 100vh;
+}
+
+
+/* hover */
+.line {
+  font-family: 'Wendy One', sans-serif;
+  color:  #FFA01B;
+  cursor: pointer;
+  position: relative;
+  /* font-size: 10vmin; */
+}
+.line:after {
+  content: '';
+  position: absolute;
+  width: 105%;
+  height: 1px;
+  bottom: -2px;
+  left: -3px;
+  transform: scaleX(0);
+  background: var(--bs-primary);
+  transform-origin: bottom right;
+  transition: transform 0.5s ease-out;
+}
+.line:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}
+
+
+
+
+/* our section */
+.img-fast{
+    background-image: url(../images/ou1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 526px;
+    height: 789px;
+}
+.img-fast-1 img{
+    width: 526px;
+    height: 789px;
+}
+.img-fast-1{
+    margin-left: 30%;
+    padding-top: 30%;
+    box-sizing: border-box;
+  /* border: 5px white solid; */
+  /* border-radius: 50%; */
+  /* overflow: hidden; */
+  box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+  transform: translatey(0px);
+  -webkit-animation: float 6s ease-in-out infinite;
+          animation: float 6s ease-in-out infinite;
+}
+.img-fast-2{
+    /* margin-left: 30%; */
+    padding-top: 30%;
+    box-sizing: border-box;
+  /* border: 5px white solid; */
+  /* border-radius: 50%; */
+  /* overflow: hidden; */
+  box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+  transform: translatey(0px);
+  -webkit-animation: float 6s ease-in-out infinite;
+          animation: float 6s ease-in-out infinite;
+}
+.img-fast-1:hover{
+    transition: all 0.01s;
+}
+@keyframes float{
+    /* 0% {
+      box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+      transform: translatey(0px);
+    } */
+    50% {
+      box-shadow: 0 25px 15px 0px rgba(0, 0, 0, 0.2);
+      transform: translatey(-50px);
+    }
+    /* 100% {
+      box-shadow: 0 5px 15px 0px rgba(0, 0, 0, 0.6);
+      transform: translatey(0px);
+    } */
+}
+
+.Patty h2{
+    font-size: 45px;
+}
+.crab h2{
+    font-size: 35px;
+}
+.crab h6{
+    font-size: 18px;
+}
+.new h2{
+    font-size: 25px;
+    box-sizing: content-box;
+}

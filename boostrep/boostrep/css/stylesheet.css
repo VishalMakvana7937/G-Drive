@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../font/DancingScript-Bold.woff') format('woff2'),
+        url('../font/DancingScript-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../font/DancingScript-Bold.woff') format('woff2'),
+        url('../font/DancingScript-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../font/DancingScript-Bold.woff') format('woff2'),
+        url('../font/DancingScript-Bold.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../font/DancingScript-Bold.woff') format('woff2'),
+        url('../font/DancingScript-Bold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

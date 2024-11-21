@@ -1,0 +1,405 @@
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-ExtraLightItalic.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-ExtraLight.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-Bold.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-BoldItalic.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-Italic.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-Medium.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-MediumItalic.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-Light.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-LightItalic.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-Regular.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-Thin.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-ThinItalic.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-SemiBoldItalic.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Josefin Sans';
+    src: url('../font/../font/JosefinSans-SemiBold.woff2') format('woff2'),
+        url('../font/../font/JosefinSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-BlackItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-Black.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-Bold.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-Light.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-BoldItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-ExtraBoldItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-ExtraBold.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-Italic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-Medium.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-Regular.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-MediumItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-SemiBold.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-LightItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-BoldItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-ExtraBold.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiCondensed';
+    src: url('../font/Playfair9ptSemiCondensed-SemiBoldItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiCondensed-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-Black.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-BlackItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-Bold.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-ExtraBoldItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-Light.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-LightItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-Italic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-Medium.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt';
+    src: url('../font/Playfair9pt-Black.woff2') format('woff2'),
+        url('../font/Playfair9pt-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-SemiBoldItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-SemiBold.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-Regular.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt SemiExpanded';
+    src: url('../font/Playfair9ptSemiExpanded-MediumItalic.woff2') format('woff2'),
+        url('../font/Playfair9ptSemiExpanded-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playfair 9pt';
+    src: url('../font/Playfair9pt-BlackItalic.woff2') format('woff2'),
+        url('../font/Playfair9pt-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mr Dafoe';
+    src: url('../font/MrDafoe-Regular.woff2') format('woff2'),
+        url('../font/MrDafoe-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

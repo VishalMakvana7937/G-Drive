@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to right,#182848, #0abfbc);
+}
+h2{
+    text-align: center;
+    margin: 40px;
+    color: black;
+    
+}
+.xyz{
+    width: 1040px;
+    height: 250px;
+    margin: 0 auto;
+    
+}
+.abc{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    float: left;
+    margin: 5px;
+}
+.sss{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    float: right;
+    margin: 5px;
+}
+i{
+    margin: 20px;
+    font-size: 30px;
+}
+h1{
+    margin: 10px;
+    font-size: 25px;
+}
+p{
+    margin: 10px;
+    font-size: 20px;
+    color: darkgrey;
+}
+
+
+
+
+
+

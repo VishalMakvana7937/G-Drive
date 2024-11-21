@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to right, #ee0c74, #ff6a00);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.xyz{
+    width: 900px;
+    height: 800px;
+    background-color: #794c37;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+.ab{
+    width: 100px;
+    height: 100px;
+    background-color: #ead2af;
+    float: left;
+}
+.ap{
+    width: 100px;
+    height: 100px;
+    background-color: #893834;
+    float: left;
+}
+img{
+    width: 100px;
+    height: 100px;
+}

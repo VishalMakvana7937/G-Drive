@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.abc, span, .box, .box1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 500;
+    position: relative;
+}
+.abc span::after{
+    display: inline-block;
+    width: 100px;
+    height: 3px;
+    content: '';
+    background-color: rgba(0, 0, 0, 0.988);
+    position: absolute;
+    top: 50px;
+    left: 100%;
+}
+.abc span::before{
+    display: inline-block;
+    width: 100px;
+    height: 3px;
+    content: '';
+    background-color: rgb(0, 0, 0,0.988);
+    position: absolute;
+    top: 50px;
+    right: 100%;
+}
+.box span::after{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    content: '';
+    background-image: url('../images/images.jfif');
+    position: absolute;
+    background-size: cover;
+    top: 20px;
+    left: 100%;
+}
+.box span::before{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    content: '';
+    background-image: url('../images/images.jfif');
+    background-size: cover;
+    position: absolute;
+    top: 20px;
+    right: 100%;
+}
+.box1 span::after{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    content: 'vishal makvana';
+    font-size: 20px;
+    position: absolute;
+    background-size: cover;
+    top: 30px;
+    left: 100%;
+}
+

@@ -1,0 +1,249 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+:root{
+    --font-Nunito: 'Nunito'; 
+    --font-Playfair: 'Playfair 9pt SemiCondensed';
+}
+/* extra */
+a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+li{
+    list-style: none;
+} 
+.m-tb{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}  
+/* ---------- and ---------- */
+/* container and row */
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    padding-left: 16px;
+    padding-right: 16px;
+} 
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -16px;
+    margin-right: -16px;
+}
+/* ---------- and ---------- */
+/* HEADER SECTION */
+.sticky{
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white;
+}
+.head-m{
+    width: 1140px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+.head-logo img{
+    width: 209px;
+    height: 64px;
+}
+ .head-c-m{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 80px;
+}
+.head-c-m li{
+    padding-left: 25px;
+    font-size: 15px;
+    font-family: var(--font-Nunito);
+}
+.head-c-m li a{
+    color: black;
+}
+.head-i .head-i-m{
+    display: flex;
+    padding: 0px;
+    justify-content: end;
+}
+.head-i-m li{
+    padding-left: 13px;
+}
+.head-i-m li a{
+    color: black;
+    transition: all 0.5s;
+}
+.head-i-m li:hover a{
+    color: #d8b069;
+}
+/* ---------- and ---------- */
+/* BRAD SECTION */
+.bread-m{
+    width: 1140px;
+    height: 600px;
+    display: flex;
+    background-image: url(../images/b.jpg);
+    background-position: center 0px;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.dread-1 span{
+    font-size: 1.3rem;
+    color: #B28564;
+    font-family: var(--font-Nunito);
+    letter-spacing: 1px;
+    line-height: 1.8;margin-bottom: 0.2em;
+}
+.dread-1 h2{
+    font-size: 2.5em;
+    font-family: var(--font-Playfair);
+    line-height: 1.2;
+    font-weight: 600;
+}
+.dread-1-b{
+    width: 140px;
+    height: 40px;
+    background-color: #041f30;
+    border: solid 1px #B28564;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 40px;
+    transition: all 0.3s;
+}
+.dread-1-b:hover{
+    border: solid 1px #ffffff;
+}
+.dread-1-b a span{
+    letter-spacing: 1px;
+    font-family: var(--font-Nunito);
+    font-family: 600;
+    color: #B28564;
+    font-size: .9em;
+    transition: all 0.3s;
+}
+.dread-1-b:hover a span{
+    color: #ffffff;
+}
+/* ---------- and ---------- */
+/* BAKED LOAF section */
+.loaf-f{
+    width: 1140px;
+    text-align: center;
+}
+.loaf-f span{
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    line-height: 1.8;
+    color: #B28564;
+    font-family: var(--font-Nunito);
+    font-weight: 400;
+}
+.loaf-f h2{
+    font-size: 3.5em;
+    overflow-wrap: inherit;
+    font-family: var(--font-Playfair);
+    line-height: 1.2;
+    font-weight: 600;
+}
+.loaf-m-1{
+    width: 1140px;
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+.loaf-i-1 img,.loaf-i-2 img{
+    height: 400px;
+    padding-right: 20px;
+}
+.loaf-m-2,.loaf-m-3{
+    width: 1140px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.loaf-i-4 img{
+    width: 359.95px;
+    padding-right: 20px;
+    height: 400px;  
+}
+.loaf-i-5{
+    display: flex;
+    /* justify-content: center; */
+    /* padding-left: 20px; */
+    align-items: center;
+}
+.loaf-i-5 h2{
+    font-size: 3.5em;
+    line-height: 1.2;
+    font-weight: 600;
+    font-family: var(--font-Playfair);
+}
+.loaf-i-6 img{
+    width: 288.04px;
+    height: 400px;
+    padding-right: 20px;
+}
+.loaf-i-7 img,.loaf-i-3 img{
+    width: 288.04px;
+    height: 400px;
+}
+.loaf-i-8 img,.loaf-i-9 img,.loaf-i-10 img{
+    width: 285px;
+    height: 330px;
+    padding-right: 20px;
+}
+.loaf-i-11 img{
+    width: 288.04px;
+    height: 330px;
+}
+/* ---------- and ---------- */
+/* space */
+.w-1{
+    width: 8.33%;
+}
+.w-2{
+    width: 16.66%;
+}
+.w-3{
+    width: 25%;
+}
+.w-4{
+    width: 33.33%;
+}
+.w-5{
+    width: 41.66%;
+}
+.w-6{
+    width: 50%;
+}
+.w-7{
+    width: 58.33%;
+}
+.w-8{
+    width: 66.66%;
+}
+.w-9{
+    width: 75%;
+}
+.w-10{
+    width: 83.33%;
+}
+.w-11{
+    width: 91.66%;
+}
+.w-12{
+    width: 100%;
+}
+/* ---------- and ---------- */

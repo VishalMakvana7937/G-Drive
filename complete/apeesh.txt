@@ -1,0 +1,71 @@
+Hello, my name is Vishal, and I’m from surat,gujrat. I completed my 12th grade in 
+science in 2021, and I’m currently pursuing a Bachelor of Computer Applications (BCA) 
+at Bhagwan Mahavir University. I’m also excited to be working as a full-time 
+full-stack developer at Swiftrut Technologies.
+
+In my role at Swiftrut Technologies, I have the opportunity to work on exciting projects
+that allow me to apply my skills in full-stack development. I have a strong foundation 
+in HTML, CSS, JavaScript, Node.js, Express, and MongoDB, and I’m passionate about 
+creating innovative web solutions. One project I’m particularly proud of is the Task 
+Management System I developed, which involved advanced features like CSV bulk data 
+export and import, task filtering, and performance optimization. This project helped 
+me improve my problem-solving skills and gain valuable experience in handling complex 
+data operations.
+
+Moving forward, my goal is to further develop my skills and contribute to Swiftrut 
+Technologies by creating efficient, scalable, and innovative web applications. I aim 
+to bring fresh ideas, collaborate with my team, and stay updated with the latest 
+technologies. I believe my passion for technology and dedication to excellence will 
+help us succeed together.
+
+Thank you for this opportunity, and I’m excited about the journey ahead with 
+Swiftrut Technologies.
+
+
+
+
+
+Hello, my name is Vishal, and I’m from Surat, Gujarat. I completed my 12th grade in 
+science in 2021, and I’m currently pursuing a Bachelor of Computer Applications (BCA) 
+at Bhagwan Mahavir University. I’m also excited to be working as a full-time 
+full-stack developer at Swiftrut Technologies.
+
+In my role at Swiftrut Technologies, I have the opportunity to work on exciting 
+projects that allow me to apply my skills in full-stack development. I have a strong 
+foundation in HTML, CSS, JavaScript, Node.js, Express, and MongoDB, and I’m passionate 
+about creating innovative web solutions. One project I’m particularly proud of is the 
+Task Management System I developed, which involved advanced features like CSV bulk 
+data export and import, task filtering, and performance optimization. This project 
+helped me improve my problem-solving skills and gain valuable experience in handling 
+complex data operations.
+
+In addition to my technical skills, I enjoy learning about new technologies and 
+trends in web development. I always look for ways to implement best practices and 
+optimize workflows. My goal is not just to develop functional applications, but to 
+build user-friendly and efficient systems that make an impact.
+
+Looking ahead, my goal is to continue growing my skills and contribute to Swiftrut 
+Technologies by developing innovative, scalable applications that help drive the 
+company’s success. I’m excited to collaborate with my team, bring fresh ideas, and 
+stay updated with the latest advancements in technology. I believe my passion for 
+development and commitment to excellence will lead to great achievements for the team.
+
+Thank you for this opportunity, and I look forward to an exciting journey ahead 
+with Swiftrut Technologies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

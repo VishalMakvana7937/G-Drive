@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    position: static;
+    right: 40px;
+}
+.box1{
+    width: 600px;
+    height: 600px;
+    background-color: blueviolet;
+    position:absolute;
+    left: 400px;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    position: fixed;
+    right: 30px;
+    border-radius: 30% 50% 30%;
+}
+.box3{
+    width: 800px;
+    height: 200px;
+    background-color: rgb(133, 245, 6);
+    position:sticky;
+    right: 30px;
+    bottom: 10px;
+}
+.box4{
+    width: 300px;
+    height: 300px;
+    background-color: crimson;
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
